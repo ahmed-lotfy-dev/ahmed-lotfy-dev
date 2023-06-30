@@ -37,11 +37,11 @@ I'm constantly learning and exploring new technologies to improve my skills and 
 
 ## Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-lotfy-dev&show_icons=true&locale=en&layout=compact" alt="ahmed-lotfy-dev" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-lotfy-dev&show_icons=true&locale=en&layout=compact" alt="ahmed-lotfy-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-lotfy-dev&show_icons=true&locale=en" alt="ahmed-lotfy-dev" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-lotfy-dev&show_icons=true&locale=en" alt="ahmed-lotfy-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-lotfy-dev&" alt="ahmed-lotfy-dev" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-lotfy-dev&" alt="ahmed-lotfy-dev" /></p>
 
 ## Get in Touch 📬
 
