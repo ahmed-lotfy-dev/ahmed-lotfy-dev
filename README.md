@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ahmed-lotfy-dev&style=flat-square&color=orange)
+
 # Hi, Welcome I'm Ahmed Lotfy,
 
 A Full Stack Web Developer
@@ -40,5 +42,3 @@ I'm constantly learning and exploring new technologies to improve my skills and 
 I'm always excited to collaborate on interesting projects or discuss web development-related topics. Feel free to reach out to me through the following channels:
 
 Let's connect and create amazing web experiences together! ✨
-
-![](https://komarev.com/ghpvc/?username=ahmed-lotfy-dev&style=flat-square&color=orange)
