@@ -1,4 +1,6 @@
-# Hi there! I'm Ahmed Lotfy, a Full Stack Web Developer 👋
+# Hi, Welcome I'm Ahmed Lotfy,
+
+## A Full Stack Web Developer
 
 Welcome to my GitHub profile! I'm passionate about building web applications and creating meaningful digital experiences. Here's a bit about me and what I'm currently working on:
 
@@ -16,7 +18,7 @@ As a Full Stack Web Developer, I enjoy tackling both the client-side and server-
 
 ### POS System Website 💼
 
-I'm currently working on developing a Point of Sale (POS) system website. This project involves creating an intuitive and efficient interface for managing sales, inventory,  I'm leveraging my skills in React and backend technologies to build a robust and user-friendly application.
+I'm currently working on developing a Point of Sale (POS) system website. This project involves creating an intuitive and efficient interface for managing sales, inventory, I'm leveraging my skills in React and backend technologies to build a robust and user-friendly application.
 
 ### Ecommerce Website 🛒
 
