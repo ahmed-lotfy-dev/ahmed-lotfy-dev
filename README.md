@@ -16,7 +16,7 @@ As a Full Stack Web Developer, I enjoy tackling both the client-side and server-
 
 ### POS System Website 💼
 
-I'm currently working on developing a Point of Sale (POS) system website. This project involves creating an intuitive and efficient interface for managing sales, inventory, and customer data. I'm leveraging my skills in React, Next.js, and backend technologies to build a robust and user-friendly application.
+I'm currently working on developing a Point of Sale (POS) system website. This project involves creating an intuitive and efficient interface for managing sales, inventory,  I'm leveraging my skills in React and backend technologies to build a robust and user-friendly application.
 
 ### Ecommerce Website 🛒
 
