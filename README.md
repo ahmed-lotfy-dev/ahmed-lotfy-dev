@@ -37,12 +37,13 @@ I'm constantly learning and exploring new technologies to improve my skills and 
 
 ## Stats
 
+<p>
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-lotfy-dev&show_icons=true&locale=en&layout=compact" alt="ahmed-lotfy-dev" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-lotfy-dev&show_icons=true&locale=en" alt="ahmed-lotfy-dev" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-lotfy-dev&" alt="ahmed-lotfy-dev" /></p>
-
+</p>
 ## Get in Touch 📬
 
 I'm always excited to collaborate on interesting projects or discuss web development-related topics. Feel free to reach out to me through the following channels:
