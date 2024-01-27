@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm passionate about building web applications and
 
 I have experience working with various technologies and frameworks, including:
 
-- Front-End: React, Next.js 13 App directory
+- Front-End: React, Next.js 14 App directory
 - Back-End: Express.js, NestJS
 - Databases: MongoDB, PostgreSQL, Prisma
 
@@ -74,7 +74,7 @@ I'm constantly learning and exploring new technologies to improve my skills and 
 
 - 🔭 I’m currently working on **POS System Website**
 
-- 🌱 I’m currently learning **NestJS, NextJS 13**
+- 🌱 I’m currently learning **NestJS, NextJS 14**
 
 - 🔭 I’m currently working on **Ecommerce Website**
 
