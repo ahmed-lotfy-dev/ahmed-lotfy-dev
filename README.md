@@ -106,6 +106,6 @@ I'm always excited to collaborate on interesting projects or discuss web develop
 
 - 💼 LinkedIn: [Ahmed Lotfy](https://www.linkedin.com/in/ahmed-lotfy-dev)
 
-- 🌐 Website: [My Portfolio Website](https://www.ahmedlotfy.me)
+- 🌐 Website: [My Portfolio Website](https://www.ahmedlotfy.dev)
 
 Let's connect and create amazing web experiences together! ✨
