@@ -80,7 +80,7 @@ I'm constantly learning and exploring new technologies to improve my skills and 
 
 - 👯 I'm looking forward to **Contributing in open source projects.**
 
-- 👨‍💻 All of my projects are available at [https://ahmedlotfy.me](https://ahmedlotfy.me)
+- 👨‍💻 All of my projects are available at [https://ahmedlotfy.dev](https://ahmedlotfy.dev)
 
 - 💬 Ask me about **reactjs,nextjs,expressjs,nestjs,prisma**
 
