@@ -33,9 +33,6 @@ Welcome to my GitHub profile! I'm passionate about building web applications and
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
     </a>
-        <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
-    </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     </a>
@@ -53,9 +50,6 @@ Welcome to my GitHub profile! I'm passionate about building web applications and
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a>
 </p>
 
@@ -102,7 +96,7 @@ I'm constantly learning and exploring new technologies to improve my skills and 
 
 I'm always excited to collaborate on interesting projects or discuss web development-related topics. Feel free to reach out to me through the following channels:
 
-- 📫 Email: [contact@ahmedlotfy.me](mailto:contact@ahmedlotfy.me)
+- 📫 Email: [contact@ahmedlotfy.me](mailto:contact@ahmedlotfy.dev)
 
 - 💼 LinkedIn: [Ahmed Lotfy](https://www.linkedin.com/in/ahmed-lotfy-dev)
 
