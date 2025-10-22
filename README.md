@@ -96,7 +96,7 @@ I'm constantly learning and exploring new technologies to improve my skills and 
 
 I'm always excited to collaborate on interesting projects or discuss web development-related topics. Feel free to reach out to me through the following channels:
 
-- 📫 Email: [contact@ahmedlotfy.me](mailto:contact@ahmedlotfy.dev)
+- 📫 Email: [contact@ahmedlotfy.site](mailto:contact@ahmedlotfy.site)
 
 - 💼 LinkedIn: [Ahmed Lotfy](https://www.linkedin.com/in/ahmed-lotfy-dev)
 
