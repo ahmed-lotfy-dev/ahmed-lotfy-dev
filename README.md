@@ -68,9 +68,9 @@ I'm constantly learning and exploring new technologies to improve my skills and 
 
 - 🔭 I’m currently working on **POS System Website**
 
-- 🌱 I’m currently learning **NestJS, NextJS 14**
+- 🌱 I’m currently learning **PHP, Laravel**
 
-- 🔭 I’m currently working on **Ecommerce Website**
+- 🔭 I’m currently working on **ERP System**
 
 - 👯 I'm looking forward to **Contributing in open source projects.**
 
