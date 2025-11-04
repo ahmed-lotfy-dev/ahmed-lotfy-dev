@@ -57,9 +57,9 @@ Welcome to my GitHub profile! I'm passionate about building web applications and
 
 I have experience working with various technologies and frameworks, including:
 
-- Front-End: React, Next.js 16 App directory
+- Front-End: React, Next.js 16, Vite
 - Back-End: Express.js, NestJS
-- Databases: MongoDB, PostgreSQL, Prisma
+- Databases: MongoDB, PostgreSQL, Prisma, Drizzle orm
 
 As a Full Stack Web Developer,
 I'm constantly learning and exploring new technologies to improve my skills and deliver high-quality solutions and keep up with the new technologies.
