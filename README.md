@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on selfTracker expanding mobile app to Desktop app <br><br>🌱 I’m currently learning GSAP & Framer Motion, Laravel<br><br>🔭 I’m currently working on ERP System<br><br>👯 I'm looking forward to Contributing in open source projects.<br><br>👨‍💻 All of my projects are available at https://ahmedlotfy.site<br><br>💬 Ask me about reactjs,nextjs,expressjs,nestjs,prisma
+🔭 I’m currently working on selfTracker expanding mobile app to Desktop app <br><br>🌱 I’m currently learning GSAP & Framer Motion<br><br>🔭 I’m currently working on ERP System<br><br>👯 I'm looking forward to Contributing in open source projects.<br><br>👨‍💻 All of my projects are available at https://ahmedlotfy.site<br><br>💬 Ask me about reactjs,nextjs,expressjs,nestjs,prisma
 
 
 ## 🌐 Socials:
